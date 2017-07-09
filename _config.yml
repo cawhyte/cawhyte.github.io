@@ -1,0 +1,21 @@
+# Site settings
+title:  The Beauty Code
+header-img: img/home-bg.png
+email: claribel.aguilarwhyte@gmail.com
+copyright_name: cawhyte
+description: > # this means to ignore newlines until "baseurl:"
+  A blog about Tech, Beauty & Lifestyle
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: Simply_b1essed
+github_username:  cawhyte
+learn_profile: cawhyte
+email_username: claribel.aguilarwhyte@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
