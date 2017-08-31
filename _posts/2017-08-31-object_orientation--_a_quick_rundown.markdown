@@ -7,7 +7,7 @@ date:   2017-08-31 11:16:37 -0400
 
 As I started writing this post I had one goal in mind, to actually write a post about something technical that someone who knows nothing about coding could kind of understand and possibly appreciate.
 
-First, let's check our background knowledge. If you're reading this then I can safely assume that you have some type of experience with computers and have heard of the word "coding". One of the most important things to understand about coding, in general, is that it is an abstract computer language. The word [abstract](http://www.google.com/search?q=abstract+definition&oq=abstr&aqs=chrome.4.69i57j0l5.4231j0j7&sourceid=chrome&ie=UTF-8) is defined as "existing in thought or as an idea but not having a physical or concrete existence."
+First, let's check our background knowledge. If you're reading this then I can safely assume that you have some type of experience with computers and have heard of the word "coding". One of the most important things to understand about coding, in general, is that it is an abstract computer language. The word abstract is defined as "existing in thought or as an idea but not having a physical or concrete existence."
 
 The human language is also abstract in that sense. We as people add meaning to words and letters. The word "apple" only means apple because someone decided that is what an apple was and then taught others the word "apple" to mean a delicious fruit that comes in various colors, because before that the word "apple" was abstract and could have been applied to what we know today as "corn". 
 
